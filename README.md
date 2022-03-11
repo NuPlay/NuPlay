@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/NuPlay?template=classic&isocalendar=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&repositories.featured=NuPlay%2FRichText&config.timezone=Asia%2FSeoul&config.display=large)
+
