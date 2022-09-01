@@ -1,1 +1,10 @@
-
+![NuPlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuPlay&count_private=true&show_icons=true&bg_color=30,9CECFB,0052D4&title_color=fff&text_color=fff&icon_color=fff)
+## 🚀 My OpenSource
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=RichText)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=ExpandableText)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=LinkPreview)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-SlideText)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=FitScrollView)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-VText)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftyMoment)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SimpleImagePicker)](https://github.com/anuraghazra/github-readme-stats)
