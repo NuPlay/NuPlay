@@ -1,4 +1,4 @@
-![NuPlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuPlay&count_private=true&show_icons=true&bg_color=30,9CECFB,0052D4&title_color=fff&text_color=fff&icon_color=fff)
+![NuPlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuPlay&count_private=true&show_icons=true&bg_color=30,9CECFB,0052D4&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
 ## 🚀 My OpenSource
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=RichText)](https://github.com/NuPlay/RichText)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=ExpandableText)](https://github.com/NuPlay/ExpandableText)
