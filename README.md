@@ -1,6 +1,7 @@
+![NuplayBanner](https://user-images.githubusercontent.com/73557895/189355671-7c2c5f23-3670-498f-a231-2d62e9f4bc5c.png)
 <div align="center">
 
-## 🎉 Something My
+# 🎉 Something My
     
 ### 💬 Comment
     👋 Hello! I am an iOS developer
