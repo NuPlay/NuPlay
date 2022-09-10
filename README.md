@@ -46,3 +46,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftyMoment&show_owner=true)](https://github.com/NuPlay/SwiftyMoment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-VText&show_owner=true)](https://github.com/NuPlay/SwiftUI-VText)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SimpleImagePicker&show_owner=true)](https://github.com/NuPlay/SimpleImagePicker)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNuPlay&count_bg=%23014397&title_bg=%238386ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
