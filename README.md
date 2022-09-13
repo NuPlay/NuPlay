@@ -1,8 +1,6 @@
 ![NuplayBanner](https://user-images.githubusercontent.com/73557895/189391521-146a52da-abac-46f3-99fb-930d835641cf.png)
 <div align="center">
 
-# 🎉 Something My
-    
 ### 💬 Comment
     👋 Hello! I am an iOS developer
     🛠️ I use Swift (SwiftUI) to develop iOS apps
