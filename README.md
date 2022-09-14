@@ -1,4 +1,4 @@
-![NuplayBanner](https://user-images.githubusercontent.com/73557895/189391521-146a52da-abac-46f3-99fb-930d835641cf.png)
+![NuplayBanner](https://user-images.githubusercontent.com/73557895/190078049-d8d45fc0-52d5-4edf-9680-a5b6102c6572.png)
 <div align="center">
 
 ### 💬 Comment
