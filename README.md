@@ -32,7 +32,7 @@
 ## 
 
 ### ✏️ Stats
-![NuPlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuPlay&count_private=true&show_icons=true&bg_color=30,748BF5,E463BA&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
+![NuPlay's GitHub stats](https://github-readme-stats-chi-ten-29.vercel.app/api?username=NuPlay&count_private=true&show_icons=true&bg_color=30,748BF5,E463BA&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
 
 ## 
 
