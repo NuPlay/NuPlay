@@ -37,13 +37,23 @@
 ## 
 
 ### 🚀 OpenSource
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=RichText&show_owner=true)](https://github.com/NuPlay/RichText)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=ExpandableText&show_owner=true)](https://github.com/NuPlay/ExpandableText)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=LinkPreview&show_owner=true)](https://github.com/NuPlay/LinkPreview)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-SlideText&show_owner=true)](https://github.com/NuPlay/SwiftUI-SlideText)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=FitScrollView&show_owner=true)](https://github.com/NuPlay/FitScrollView)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftyMoment&show_owner=true)](https://github.com/NuPlay/SwiftyMoment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-VText&show_owner=true)](https://github.com/NuPlay/SwiftUI-VText)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SimpleImagePicker&show_owner=true)](https://github.com/NuPlay/SimpleImagePicker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=RichText&show_owner=true)](https://github.com/NuPlay/RichText#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=ExpandableText&show_owner=true)](https://github.com/NuPlay/ExpandableText#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=LinkPreview&show_owner=true)](https://github.com/NuPlay/LinkPreview#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-SlideText&show_owner=true)](https://github.com/NuPlay/SwiftUI-SlideText#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-VText&show_owner=true)](https://github.com/NuPlay/SwiftUI-VText#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=FitScrollView&show_owner=true)](https://github.com/NuPlay/FitScrollView#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SimpleImagePicker&show_owner=true)](https://github.com/NuPlay/SimpleImagePicker#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftyMoment&show_owner=true)](https://github.com/NuPlay/SwiftyMoment#gh-light-mode-only)
+
+[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=RichText&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/RichText#gh-dark-mode-only)
+[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=ExpandableText&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/ExpandableText#gh-dark-mode-only)
+[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=LinkPreview&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/LinkPreview#gh-dark-mode-only)
+[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-SlideText&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/SwiftUI-SlideText#gh-dark-mode-only)
+[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-VText&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/SwiftUI-VText#gh-dark-mode-only)
+[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=FitScrollView&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/FitScrollView#gh-dark-mode-only)
+[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SimpleImagePicker&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/SimpleImagePicker#gh-dark-mode-only)
+[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftyMoment&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/SwiftyMoment#gh-dark-mode-only)
+
 
 ![](https://hit.yhype.me/github/profile?user_id=73557895)
