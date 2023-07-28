@@ -1,4 +1,4 @@
-![GithubBanner](https://github.com/NuPlay/NuPlay/assets/73557895/1b8ec237-2fd5-4043-a273-632e3f238047)
+![GithubBanner](https://github.com/NuPlay/NuPlay/assets/73557895/9738b3c4-9ee8-477b-bb19-7efe0cb90451)
 <div align="center">
 
 ### 💬 Comment
