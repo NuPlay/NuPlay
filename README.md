@@ -31,11 +31,6 @@
 
 ## 
 
-### ✏️ Stats
-![NuPlay's GitHub stats](https://github-readme-stats-rho-one-14.vercel.app/api?username=NuPlay&show_icons=true&bg_color=30,748BF5,E463BA&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
-
-## 
-
 ### 🚀 OpenSource
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=RichText&show_owner=true)](https://github.com/NuPlay/RichText#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=ExpandableText&show_owner=true)](https://github.com/NuPlay/ExpandableText#gh-light-mode-only)
