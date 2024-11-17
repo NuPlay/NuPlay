@@ -24,9 +24,6 @@
 <p>
   <img src="https://img.shields.io/badge/Xcode-1798E9?style=for-the-badge&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-181C1F?style=for-the-badge&logo=Figma&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Adobe XD-460137?style=for-the-badge&logo=Adobe XD&logoColor=FF61F6"/>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-310100?style=for-the-badge&logo=Adobe Illustrator&logoColor=F29302"/>
 </p>
 
 ## 
