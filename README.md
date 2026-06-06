@@ -1,51 +1,90 @@
 ![GithubBanner](https://github.com/NuPlay/NuPlay/assets/73557895/9738b3c4-9ee8-477b-bb19-7efe0cb90451)
+
 <div align="center">
 
-### 💬 Comment
-    👋 Hello! I am an iOS developer
-    🛠️ I use Swift (SwiftUI) to develop iOS apps
-    🎨 I also like to design
+<h3>👋 Hi, I'm Ungjae Lee</h3>
+
+<p><strong>iOS Developer building production apps, SwiftUI architecture, and developer tools</strong></p>
+
+<p>
+  I build and ship production iOS apps — from feature development and app architecture to SwiftUI APIs, native integrations, and reusable UI systems.
+</p>
+
+<p>
+  Currently working on <strong>iOS engineering</strong> at <a href="https://www.overdare.com/">OVERDARE</a>, across production screens, SwiftUI-based systems, and native integration.
+</p>
+
+<p>
+  <a href="https://github.com/NuPlay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://linkedin.com/in/ungjae-lee-393112241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
 <br/>
-    
-### 💡 MyApps
-| ![ChatGenie](https://github.com/NuPlay/NuPlay/assets/73557895/f07110c4-b21e-4081-aeed-076dff709d38) 	| ![PayMap](https://github.com/NuPlay/NuPlay/assets/73557895/a491fdad-d12c-4950-9bf2-eda6ddc67c6e) 	| ![Trendy](https://github.com/NuPlay/NuPlay/assets/73557895/5b364b09-8b62-4246-93c8-c11d87bca30d) 	| ![Fonty](https://github.com/NuPlay/NuPlay/assets/73557895/b13cbe34-4c01-45c4-a0d2-2a4643226f98) 	| ![MusicSpace](https://github.com/NuPlay/NuPlay/assets/73557895/83d557a6-a3ea-4b16-999e-a0ef234756f6) 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|
-| [ChatGenie](https://apps.apple.com/kr/app/id1671823687) 	| [PayMap](https://apps.apple.com/kr/app/id6446371801) 	| [Trendy](https://apps.apple.com/kr/app/id1615275308) 	| [Fonty](https://apps.apple.com/kr/app/id1620084587) 	| [MusicSpace](https://apps.apple.com/kr/app/id6444373780) 	|
-| ![FontSnap](https://github.com/NuPlay/NuPlay/assets/73557895/092d5b26-e26b-4623-b1c3-d63f2b237b9d) 	| ![ChatMe](https://github.com/NuPlay/NuPlay/assets/73557895/b3c176d8-c8cc-4627-9716-d00750c32c98) 	| ![Real Probability](https://github.com/NuPlay/NuPlay/assets/73557895/c75268e8-563f-400a-bf3f-bf83491d0834) 	| ![Salary](https://github.com/NuPlay/NuPlay/assets/73557895/28ca15c8-ab66-470f-99f6-123afc348b16) 	| ![DropUI Icon](https://github.com/NuPlay/NuPlay/assets/73557895/16de1ead-9bf9-4839-a7a9-ed282162aae1)	|
-| [FontSnap](https://apps.apple.com/kr/app/id6447268040) 	| [ChatMe](https://apps.apple.com/kr/app/id1553678288) 	| [Real Probability](https://play.google.com/store/apps/details?id=ungjaelee.realprobability.aos&hl=ko&gl=US) 	| [Salary](https://apps.apple.com/kr/app/id1623056189) 	| [DropUI(Swift Student Challenge)](https://apps.apple.com/kr/app/id6450929988) |
-    
-### 📚 Tech Stack
+
+<h3>🍎 Focus</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
+  <code>iOS App Development</code> ·
+  <code>SwiftUI Architecture</code> ·
+  <code>Native Integration</code> ·
+  <code>API Design</code> ·
+  <code>Developer Tools</code> ·
+  <code>UI Systems</code>
 </p>
 
-### 🛠 Tools
+<br/>
+
+<h3>💡 Apps</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://apps.apple.com/kr/app/pixi-layout/id6752223048">
+        <img src="assets/app-icons/pixi.png" width="72" alt="Pixi icon"/><br/>
+        Pixi
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://apps.apple.com/kr/app/dropui/id6450929988">
+        <img src="assets/app-icons/dropui.png" width="72" alt="DropUI icon"/><br/>
+        DropUI
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://apps.apple.com/kr/app/%ED%8E%98%EC%9D%B4%EB%A7%B5-%EC%A3%BC%EB%B3%80-%EA%B0%80%EA%B2%8C-%ED%8E%98%EC%9D%B4-%EC%A7%80%EB%8F%84/id6446371801">
+        <img src="assets/app-icons/paymap.png" width="72" alt="PayMap icon"/><br/>
+        PayMap
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://apps.apple.com/kr/app/%ED%8A%B8%EB%A0%8C%EB%94%94/id1615275308">
+        <img src="assets/app-icons/trendy.png" width="72" alt="Trendy icon"/><br/>
+        Trendy
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>📚 Stack & Tools</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/Xcode-1798E9?style=for-the-badge&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
+  <img src="https://img.shields.io/badge/Metal-8E8E93?style=for-the-badge&logo=apple&logoColor=white" alt="Metal"/>
 </p>
 
-## 
+</div>
 
-### 🚀 OpenSource
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=RichText&show_owner=true)](https://github.com/NuPlay/RichText#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=ExpandableText&show_owner=true)](https://github.com/NuPlay/ExpandableText#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=LinkPreview&show_owner=true)](https://github.com/NuPlay/LinkPreview#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-SlideText&show_owner=true)](https://github.com/NuPlay/SwiftUI-SlideText#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-VText&show_owner=true)](https://github.com/NuPlay/SwiftUI-VText#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=FitScrollView&show_owner=true)](https://github.com/NuPlay/FitScrollView#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SimpleImagePicker&show_owner=true)](https://github.com/NuPlay/SimpleImagePicker#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftyMoment&show_owner=true)](https://github.com/NuPlay/SwiftyMoment#gh-light-mode-only)
+---
 
-[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=RichText&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/RichText#gh-dark-mode-only)
-[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=ExpandableText&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/ExpandableText#gh-dark-mode-only)
-[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=LinkPreview&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/LinkPreview#gh-dark-mode-only)
-[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-SlideText&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/SwiftUI-SlideText#gh-dark-mode-only)
-[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftUI-VText&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/SwiftUI-VText#gh-dark-mode-only)
-[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=FitScrollView&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/FitScrollView#gh-dark-mode-only)
-[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SimpleImagePicker&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/SimpleImagePicker#gh-dark-mode-only)
-[![Customized Dark Card](https://github-readme-stats.vercel.app/api/pin/?username=NuPlay&repo=SwiftyMoment&show_owner=true&title_color=448AF7&text_color=8B8E91&bg_color=1A1D23&border_color=3C3F43&icon_color=F2F6FC)](https://github.com/NuPlay/SwiftyMoment#gh-dark-mode-only)
+### 🚀 Projects
 
+- 🧩 **[RichText](https://github.com/NuPlay/RichText)** — SwiftUI text rendering framework with a developer-friendly API.
+- 🏆 **[DropUI](https://github.com/NuPlay/DropUI)** — WWDC Swift Student Challenge Winner 2023, a developer tool for exploring SwiftUI.
+- ✨ **[AnimationKit](https://github.com/NuPlay/AnimationKit)** — Declarative sequential animations for SwiftUI.
+- 🤖 **[AutoL10N](https://www.linkedin.com/posts/ungjae-lee-393112241_krafton-ai-hackathon-share-7424087196883824641-8a-S)** — KRAFTON AI Hackathon Mentors' Pick, Figma-to-L10N automation with RAG and GPT integration.
 
 ![](https://hit.yhype.me/github/profile?user_id=73557895)
